@@ -92,6 +92,8 @@ var rules = [
         ],
         [
             "030buy.com",
+			"spys.one",
+			"free-proxy.cz",
             "0rz.tw",
             "1-apple.com.tw",
             "10.tt",
