@@ -97,6 +97,7 @@ var rules = [
 			"animetorrents.me",
 			"avistaz.to",
 			"pussytorrents.org",
+			"torrenting.com"
             "0rz.tw",
             "1-apple.com.tw",
             "10.tt",
