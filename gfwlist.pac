@@ -91,7 +91,8 @@ var rules = [
             "zhongsou.com"
         ],
         [
-            "030buy.com",
+            "||ssrok.xyz",
+			"030buy.com",
 			"spys.one",
 			"free-proxy.cz",
 			"animetorrents.me",
